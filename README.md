@@ -1,4 +1,4 @@
-# Articles
+# Non-technical Articles
 
 ## [ISTJ人格](/ISTJ.md)
 

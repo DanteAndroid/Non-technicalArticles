@@ -1,7 +1,7 @@
 # Non-technical Articles
 
-- ## [ISTJ人格](/ISTJ.md)
+- ### [ISTJ人格](/ISTJ.md)
 
-- ## [EPP](/EPP.md)
+- ### [EPP](/EPP.md)
 
-- ## [租房心得](/RentGuide.md)
+- ### [租房心得](/RentGuide.md)

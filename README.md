@@ -1,4 +1,4 @@
-# Non-technical Articles
+## 个人写的非技术的文章
 
 - ### [ISTJ人格](/ISTJ.md)
 

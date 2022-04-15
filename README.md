@@ -1,7 +1,7 @@
-## 个人写的非技术的文章
+### [ISTJ人格](/ISTJ.md)
 
-- ### [ISTJ人格](/ISTJ.md)
+### [租房心得](/RentGuide.md)
 
-- ### [租房心得](/RentGuide.md)
+### [IT单词错误发音](/Wrong-Pronunciation.md)
 
-- ### [IT单词错误发音](/Wrong-Pronunciation.md)
+### [如何提交Bug？](/submit%20bug.md)

@@ -4,4 +4,4 @@
 
 ### [IT单词错误发音](/Wrong-Pronunciation.md)
 
-### [如何提交Bug？](/submit%20bug.md)
+### [如何反馈Bug？](/submit%20bug.md)

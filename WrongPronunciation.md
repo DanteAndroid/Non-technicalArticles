@@ -1,4 +1,4 @@
-# Wrong-Pronunciation
+# WrongPronunciation
 我，发音错误的单词
 
 | 单词                                                         | 正确发音      | 错误发音               |
